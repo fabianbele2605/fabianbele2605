@@ -10,6 +10,7 @@ Mi meta es crecer como los grandes referentes del mundo tech, construyendo proye
 ![HTML](https://img.shields.io/badge/Code-HTML-orange?logo=html5)
 ![CSS](https://img.shields.io/badge/Style-CSS-blue?logo=css3)
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow?logo=javascript)
+![TypeScript](https://img.shields.io/badge/Language-TypeScript-3178C6?logo=typescript)
 ![React](https://img.shields.io/badge/Framework-React-61DAFB?logo=react)
 ![Node.js](https://img.shields.io/badge/Backend-Node.js-green?logo=node.js)
 ![NestJS](https://img.shields.io/badge/Framework-NestJS-E0234E?logo=nestjs)

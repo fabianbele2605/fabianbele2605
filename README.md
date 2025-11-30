@@ -6,7 +6,7 @@
   </p>
 
   <p>
-    <a href="https://linkedin.com/in/TU-USUARIO-LINKEDIN" target="_blank">
+    <a href="https://www.linkedin.com/in/fabian-enrique-bele%C3%B1o-robles-696960261/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
     <a href="mailto:fabianrobles321@outlook.com">
@@ -62,10 +62,11 @@ Soy un desarrollador enfocado en construir software escalable y seguro. Mi fuert
 </p>
 
 #### 🗄️ Bases de Datos & ORMs
-*Manejo diversas tecnologías de persistencia:*
+*Persistencia, Cache y Modelado de Datos:*
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis"/>
   <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite"/>
   <img src="https://img.shields.io/badge/TypeORM-FE0C05?style=flat-square&logo=typeorm&logoColor=white" alt="TypeORM"/>
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma"/>

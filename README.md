@@ -27,6 +27,33 @@ Soy un desarrollador enfocado en construir software escalable y seguro. Mi fuert
 
 ---
 
+## 🌟 Proyectos Destacados
+
+### 🚀 NoahDB Ecosystem
+**Base de datos en memoria ultra-rápida con arquitectura profesional**
+
+Sistema completo de base de datos construido en Rust con arquitectura "Engine vs Service":
+
+- 📦 **[NoahDB](https://github.com/fabianbele2605/NoahDB)** - Servidor principal con APIs HTTP + gRPC (4K+ req/s)
+  - [![Crates.io](https://img.shields.io/crates/v/noah-protocol.svg)](https://crates.io/crates/noah-protocol) Publicado en crates.io
+  - Benchmarking profesional con métricas P50/P95/P99
+  - Arquitectura modular (Cargo Workspace)
+
+- 🎨 **[NoahDB-Dashboard](https://github.com/fabianbele2605/NoahDB-Dashboard)** - Dashboard en tiempo real
+  - React + TypeScript + Vite
+  - Visualización de operaciones HTTP/gRPC
+  - Métricas de rendimiento en vivo
+
+- ⚙️ **[NanoDB](https://github.com/fabianbele2605/arquitectura-hexagonal-nanodb)** - Motor de base de datos
+  - Engine puro (B-Trees, LSM, algoritmos)
+  - Arquitectura hexagonal
+  - Thread-safe con DashMap
+
+**Tech Stack:** Rust, gRPC, Protocol Buffers, Tokio, Tonic, React, TypeScript
+
+---
+
+
 ### 🛠️ Stack Tecnológico
 
 #### 💻 Mi Core (Uso Diario & Dominio)
